@@ -1,0 +1,3 @@
+author = HappyJoy
+version = 0.1
+displayName = Colarium Mod
